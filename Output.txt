@@ -1,0 +1,8 @@
+Creating Project w3schools
+First Spider now Crawling https://w3schools.com/
+Queue 1 | Crawled 0
+Error : Cannot Crwal Page
+[Finished in 2.5s]
+
+
+https://www.youtube.com/watch?v=zfBhpmhXUqM
